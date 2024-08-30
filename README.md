@@ -70,11 +70,11 @@ Below is a pie chart to visualize the difference in the distribution of Smokers 
 
 ![Linear Regression Confusion Matrix](Linear_Regression_Confusion_Matrix.png)
 
-##### Accuracy Score : 0.74
+##### Accuracy Score: 0.74
 
-![Random Forest Model Confusion matrix](Random_Forest_Model_Confusion_Matrix.p)
+![Random Forest Model Confusion matrix](Random_Forest_Model_Confusion_Matrix.png)
 
-##### Accuracy Score : 0.7709
+##### Accuracy Score: 0.7709
 
 - The Random Forest Classifier does a better job at predicting the smoking status of an individual when it is fed with bio-status data compared to Logistic Regression Classifier.
 
