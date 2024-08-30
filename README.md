@@ -3,7 +3,7 @@
 # BREATHE AGAIN
 
 ## Project Overview
-This is a classification problem , whose main aim is to classify whether or not someone is a smoker or not using bio-signals. The project will focus in on the main tell signs that someone is a smoker and how you to help a smoker quit.
+This is a classification problem, whose main aim is to classify whether or not someone is a smoker or not using bio-signals. The project will focus in on the main tell signs that someone is a smoker and how you to help a smoker quit.
 
 
 ## Business Understanding 
@@ -12,15 +12,15 @@ Victorious Living is a non profit Christian organization which is in the busines
 
 
 ### Objectives
-1.  Identify the best classification model to use for accurately precting the smoking status of an individual based on bio-signals.
+1. Identify the effects of smoking on the body systems.  
 
 2. Identify the distribution of smokers by age.
 
-3. Identify the effects of smoking on the body systems. 
+3. Identify the best classification model to use for accurately predicting the smoking status of an individual based on bio-signals.
 
 ## Data Understanding
 
-A Smoker Status Dataset has been used for this project. It has over 159,000 rows and 23 Feature columns, which are the Bio - Signals. The target variable of the dataset is 'smoker status'.
+A Smoker Status Dataset has been used for this project. It has over 159,000 rows and 23 Feature columns, which are the Bio-Signals. The target variable of the dataset is 'smoker status'.
 
 As can be seen above, we have over 159,000 rows with 23 features columns and 1 target column. 
 - `id` : Id of the current row.
