@@ -3,7 +3,7 @@
 # BREATHE AGAIN
 
 ## Project Overview
-This is a classification problem, whose main aim is to classify whether or not someone is a smoker or not using bio-signals. The project will focus in on the main tell signs that someone is a smoker and how you to help a smoker quit.
+This is a classification problem, whose main aim is to classify whether or not someone is a smoker using bio-signals. The project will focus on the main tell signs that someone is a smoker and recommend measures to promote the cessation of smoking.
 
 
 ## Business Understanding 
