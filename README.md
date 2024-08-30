@@ -51,7 +51,7 @@ As can be seen above, we have over 159,000 rows with 23 features columns and 1 t
 Below is a pie chart to visualize the difference in the distribution of Smokers and Non-Smokers.
 
 
-## Correlation Matrix of Bio Status
+## Correlation Matrix of Bio Signals
 
 ![Bio-Signal Correlation matrix](Bio-status_correlation_matrix.png)
 
