@@ -93,7 +93,7 @@ Below is a pie chart to visualize the difference in the distribution of Smokers 
  4. Inflammation: Smoking causes inflammation which makes LDL cholesterol more likely to become oxidized - a form that is a particularly harmful and more likely to contribute to atherosclerosis, a condition characterised by hardened and narrowed arteries. 
 
 
- > U.S. Department of Health and Human Services. (2020). Smoking and Cardiovascular Disease: A Report of the Surgeon General. Washington, DC: U.S. Government Printing Office. Available at https://www.cdc.gov/tobacco/data_statistics/sgr/2020-smoking-cardiovascular-disease/index.html.
+ > U.S. Department of Health and Human Services. (2020). Smoking and Cardiovascular Disease: A Report of the Surgeon General. Washington, DC: U.S. Government Printing Office. Available at [[https://www.cdc.gov/tobacco/data_statistics/sgr/2020-smoking-cardiovascular-disease/index.html.](https://stacks.cdc.gov/view/cdc/84557/cdc_84557_DS1.pdf)](https://stacks.cdc.gov/view/cdc/84557/cdc_84557_DS1.pdf)
 
  ## Recommendations 
 
