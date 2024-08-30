@@ -12,12 +12,11 @@ Victorious Living is a non profit Christian organization which is in the busines
 
 
 ### Objectives
-1. Identify the effects of smoking on the body systems. 
+1.  Identify the best classification model to use for accurately precting the smoking status of an individual based on bio-signals.
 
 2. Identify the distribution of smokers by age.
 
-3. Identify the best classification model to use for accurately precting the smoking status of an individual based on bio-signals.
-
+3. Identify the effects of smoking on the body systems. 
 
 ## Data Understanding
 
@@ -56,54 +55,45 @@ Below is a pie chart to visualize the difference in the distribution of Smokers 
 
 ![Bio-Signal Correlation matrix](Bio-status_correlation_matrix.png)
 
+- Cholesterol and LDL(Low-Density Lipoprotein aka bad cholesterol) are highly correlated.
 
 ## Bar Graph of Distribution of Smokers by age
 
-![Smoker Distribution by Age](number of smokers by age.png)
+![Smoker Distribution by Age](number_of_smokers_by_age.png)
+
+- The largest population of smokers are in their 40's.
+  More on this in the research findings section below
 
 
 ## Confusion Matrix from Logistic Regression and Random Forest Classifiers
 
 
-![Linear Regression Confusion Matrix](Linear Regression Confusion Matrix.png)
+![Linear Regression Confusion Matrix](Linear_Regression_Confusion_Matrix.png)
 
 ##### Accuracy Score : 0.74
 
-![Random Forest Model Confusion matrix](Random Forest Model Confusion Matrix.p)
+![Random Forest Model Confusion matrix](Random_Forest_Model_Confusion_Matrix.p)
 
 ##### Accuracy Score : 0.7709
 
+- The Random Forest Classifier does a better job at predicting the smoking status of an individual when it is fed with bio-status data compared to Logistic Regression Classifier.
 
-## Findings
+## Research Findings
 
-1. Findings from the EDA
-- Cholestrol and LDL(Low Density Lipoprotein aka bad cholestrol) are highly correlated.
+  Smoking is closely linked to elevated levels of bad cholesterol (LDL). When one smokes, it triggers a series of biochemical processes that negatively affect cholesterol levels and cardiovascular health.
 
-     Reseach Findings.
-  Smoking is closely linked to elevated levels of bad cholestrol(LDL). When one smokes, it triggers a series of biochemical processes that negatively affect cholestrol levels and cardiovascular health.
-
- Below are some effects of Smocking to the body. 
- 1. Oxidative Stress: Smoking increases oxidative stress which damages the walls of blood vessels. The damage encourages the accumuulation of LDL cholestrol on the arterial walls, contributing to an increased risk of
+ Below are some effects of smoking to the body. 
+ 1. Oxidative Stress: Smoking increases oxidative stress which damages the walls of blood vessels. The damage encourages the accumulation of LDL cholesterol on the arterial walls, contributing to an increased risk of
  LDL buildup. 
 
- 2. Decrease in HDL Cholesterol: Smoking reduces levels of high-density lipoprotein(HDL) also known as "good" cholesterol. HDL helps remove LDL from the bloodstream, so lower  HDL levels leads to increased risk of LDL buildup. 
+ 2. Decrease in HDL Cholesterol: Smoking reduces levels of high-density lipoprotein(HDL) also known as "good" cholesterol. HDL helps remove LDL from the bloodstream, so lower  HDL levels lead to an increased risk of LDL buildup. 
 
- 3. Impaired Lipid Metabolism : Smoking affects how the body metabolizes fats, leading to an increase in the levels of triglycerides, another type of fat that contributes to heart disease. This can in turn lead to the increase in LDL Cholesterol levels.
+ 3. Impaired Lipid Metabolism: Smoking affects how the body metabolizes fats, leading to an increase in the levels of triglycerides, another type of fat that contributes to heart disease. This can in turn lead to an increase in LDL Cholesterol levels.
 
- 4. Inflammation : Smoking causes inflamation which makes LDL cholesterol more likely to become oxidized - a form that is a particularly harmful and more likely to contribute to atherosclerosis, a condition characterised by hardened and narrowed arteries. 
+ 4. Inflammation: Smoking causes inflammation which makes LDL cholesterol more likely to become oxidized - a form that is a particularly harmful and more likely to contribute to atherosclerosis, a condition characterised by hardened and narrowed arteries. 
 
 
  > U.S. Department of Health and Human Services. (2020). Smoking and Cardiovascular Disease: A Report of the Surgeon General. Washington, DC: U.S. Government Printing Office. Available at https://www.cdc.gov/tobacco/data_statistics/sgr/2020-smoking-cardiovascular-disease/index.html.
-
-
-
- 2. Distribution of smokers to non-smokers by age.
- - The largest population of smokers are in their mid-years i.e they are around the age of 40.
-
-
- 3. Classification model to use for predicting of an individuals smoking status. 
- - The Random Forest Classifier does a better job at predicting the smoking status of an individual when it is fed with bio-status data.
-
 
  ## Recommendations 
 
