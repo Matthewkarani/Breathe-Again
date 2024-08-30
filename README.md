@@ -54,7 +54,7 @@ Below is a pie chart to visualize the difference in the distribution of Smokers 
 
 ## Correlation Matrix of Bio Status
 
-![Bio-Signal Correlation matrix](Bio-status correlation matrix.png)
+![Bio-Signal Correlation matrix](Bio-status_correlation_matrix.png)
 
 
 ## Bar Graph of Distribution of Smokers by age
